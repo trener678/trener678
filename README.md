@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/GpjTnB6IjOUAAAAC/geographyofrobots-pixel-art.gif" alt="Pixel Art Animation" width="500" />
+  <img src="https://media1.tenor.com/m/w4odShJ4eXoAAAAC/cat-kedi.gif" alt="Pixel Art Animation" width="500" />
 </div>
 
 <h1 align="center">
